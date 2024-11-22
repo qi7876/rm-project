@@ -1,0 +1,18 @@
+Sample Statistics:
+Mean: 0.0033473543676395138
+Standard Deviation: 0.053812377413783634
+Distribution Parameters:
+Degrees of Freedom (df): 0.9937415173159374
+Location (loc): 0.00017513416375966687
+Scale (scale): 0.010113315134109404
+
+Goodness of Fit Tests:
+Kolmogorov-Smirnov test:
+  Statistic: 0.06531138492434072
+  p-value: 0.10165511616916378 - Quality: GOOD
+Fit Quality Metrics:
+Mean Squared Error: 25.264941220272814 - Quality: POOR
+AIC: 1.810861857782065 (Lower is better.)
+BIC: 13.332786829902261 (Lower is better.)
+Percentile RMSE: 0.08415979104164016 - Quality: EXCELLENT
+

@@ -1,0 +1,19 @@
+Sample Statistics:
+Mean: 0.02501546551011726
+Standard Deviation: 0.04533422143111335
+Distribution Parameters:
+Concentration (alpha): 0.7234616623915272
+Rate (beta): 28.154555099198134
+Mean (alpha/beta): 0.025696078657344225
+Variance (alpha/beta^2): 0.0009126792651067703
+
+Goodness of Fit Tests:
+Kolmogorov-Smirnov test:
+  Statistic: 0.2028814446828734
+  p-value: 6.158764501175594e-14 - Quality: POOR
+Fit Quality Metrics:
+Mean Squared Error: 48.88565929206478 - Quality: POOR
+AIC: -1.401525961066933 (Lower is better.)
+BIC: 6.441630878220699 (Lower is better.)
+Percentile RMSE: 0.042577884099281586 - Quality: EXCELLENT
+

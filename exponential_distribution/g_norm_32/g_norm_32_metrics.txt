@@ -1,0 +1,17 @@
+Sample Statistics:
+Mean: 0.02501546551011726
+Standard Deviation: 0.04533422143111335
+Distribution Parameters:
+Rate (lambda): 38.9193912087107
+Mean (1/lambda): 0.02569413264039408
+
+Goodness of Fit Tests:
+Kolmogorov-Smirnov test:
+  Statistic: 0.2717939054455865
+  p-value: 7.8145403500228455e-25 - Quality: POOR
+Fit Quality Metrics:
+Mean Squared Error: 54.21898333180786 - Quality: POOR
+AIC: -3.322985239055841 (Lower is better.)
+BIC: 0.598593180587975 (Lower is better.)
+Percentile RMSE: 0.0513691461896762 - Quality: EXCELLENT
+
